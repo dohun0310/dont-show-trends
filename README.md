@@ -1,4 +1,4 @@
-# dont-show-trends: It's clean now
+# dont show trends: It's clean now
 Delete "Trends For You" from Twitter
 
 # How it works?
