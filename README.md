@@ -7,6 +7,8 @@ When you go to Twitter, Chrome extension looks for a div tag with an ```aria-lab
 If ```aria-label=Timeline: Trending now``` is detected remove element
 
 # How it use?
-First, Go
+First, Go https://chrome.google.com/webstore/detail/dont-show-trends/mpgaleehlnjngfdkhjejcphekjnhciga
 
-Second, 
+Second, Click ```Add to Chrome```
+
+Now you can enjoy Twitter in comfort
