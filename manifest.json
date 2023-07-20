@@ -1,6 +1,8 @@
 {
     "manifest_version": 3,
-	"version": "1.0",
+	"name": "dont show trends",
+	"version": "1.2",
+	"description": "Removes trending topics from Twitter",
 	"web_accessible_resources": [{ 
   		"resources": ["index.js"],
   		"matches": ["*://*.twitter.com/*"]
